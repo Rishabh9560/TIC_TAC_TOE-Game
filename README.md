@@ -1,12 +1,59 @@
-# React + Vite
+# 🎮 Tic Tac Toe Game (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Tic Tac Toe game built with **React.js** where two players can play as **X** and **O**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+* Two players: X and O
+* Detects winner automatically
+* Reset button to play again
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Used
+
+* React.js
+* CSS
+
+---
+
+## ⚡ How to Run
+
+1. Clone this repo:
+
+   ```bash
+   git clone https://github.com/your-username/tic-tac-toe.git
+   ```
+2. Go inside folder:
+
+   ```bash
+   cd tic-tac-toe
+   ```
+3. Install packages:
+
+   ```bash
+   npm install
+   ```
+4. Start the app:
+
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 🎯 How to Play
+
+* Player X starts first.
+* Players take turns clicking squares.
+* First to get 3 in a row wins.
+* Click **Play Again** to restart.
+
+---
+
+
+
+
+
